@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Henry Dunn's 2020 portfolio
 
 You can use the [editor on GitHub](https://github.com/Artcapella/2020Programing1HD/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
